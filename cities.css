@@ -574,4 +574,5 @@ video::-moz-media-controls {
 video {
   -webkit-media-controls: none !important;
   controls: none !important;
+  border-radius: 20px;
 }
